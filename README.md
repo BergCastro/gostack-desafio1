@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://rocketseat.com.br/bootcamp" alt="Bootcamp Rocketseat">
-  <img src="https://skylab.rocketseat.com.br/api/files/1560759053914.svg" height="150px"></a></p>
+  <img src="https://skylab.rocketseat.com.br/api/files/1560759053914.svg" height="120px"></a></p>
 
 # Rocketseat GoStack - Desafio 01
 
